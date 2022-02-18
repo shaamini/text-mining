@@ -1,0 +1,1 @@
+illustrate let’s say you have 10 people hospital. 1 will have been vaccinated other 9 not. if hospitalizations double you would expect see 2 vaccinated people 18 unvaccinated. both population hospitalization growth rate is same, but raw numbers

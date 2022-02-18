@@ -1,0 +1,1 @@
+pfizer #1: 12/16/2021 check_mark_button pfizer #2: 01/05/2021 check_mark_button booster/pfizer #3: 09/02/2021 check_mark_button

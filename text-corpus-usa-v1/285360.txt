@@ -1,0 +1,1 @@
+maybe harden doesn’t sign extension, but i don’t think we’re here if kyrie is vaccinated.

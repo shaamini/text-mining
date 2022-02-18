@@ -1,0 +1,1 @@
+need oygen bed patient name: sudha dimri age: 61 location: delhi spo2 level: 88 covid positive vaccination dose: both please help

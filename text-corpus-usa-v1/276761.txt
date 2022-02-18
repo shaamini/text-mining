@@ -1,0 +1,1 @@
+scoring olympics: nyt = total number medals color doesn’t seem matter google= 1st_place_medal3pts 2nd_place_medal2pts3rd_place_medal1pt which is correct way measure nation’s overall standing olympic games

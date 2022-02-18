@@ -1,0 +1,1 @@
+big issue with vaxxed vs unvaxxed hospital stats is that they are using cdc definition "vaccinated" which is 2 weeks after their last shot. basically all adverse reactions are thrown into "unvaccinated" totals since they generally happen before those 2 weeks.

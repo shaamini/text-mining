@@ -1,0 +1,1 @@
+doing some quick maths, given these numbers, probability someone uk ending up icu given they are not vaccinated is 14 times probability someone ending up icu given they are vaccinated

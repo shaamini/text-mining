@@ -1,0 +1,1 @@
+blue 'unvaccinated' portion refers anyone who has received 0 or 1 dose or 2 doses but less than 14 days since. grey is only 2 doses + 14 days

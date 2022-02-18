@@ -1,0 +1,1 @@
+case hospitalization data city by vaccination status is pretty staggering. cases up both vaccinated unvaccinated though much higher unvaccinated . hospitalizations only up unvaccinated. 1 = citywide; 2 = vaccinated; 3 = unvaccinated .

@@ -1,0 +1,1 @@
+let us visualize these data another way by dividing vaccination rates into categories. 158 counties 5% have more than 50% school-aged kids fully vaccinated. another 859 counties 28% have rates between 25 50%. 2096 counties 67% have fewer than 25% fully vaccinated.

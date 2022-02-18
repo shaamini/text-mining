@@ -1,0 +1,1 @@
+disclaimer1: this models output is rough estimate. single-dose vaccines like janssen are counted as fully vaccinated, as all doses that vaccine have been administered. e.g. single dose janssen increases green curve by one but it does not influence orange curve

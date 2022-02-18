@@ -1,0 +1,1 @@
+-get vaccinated check_mark_button -socially distance check_mark_button -wear mask check_mark_button

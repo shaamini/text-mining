@@ -1,0 +1,1 @@
+this model appears assume that effectiveness against infection is same as effectiveness at suppressing transmission - other words, if vaccine is 85% effective &amp; 100% population is vaccinated, unlucky 15% are just as infectious as if they we are unvaccinated

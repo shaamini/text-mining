@@ -1,0 +1,1 @@
+two doses. i’m going by what our world data has as `fully_vaccinated_per_hundred` as data source this bot. i’ve considered creating bot called “triple jabbed canada” since data is available but it would take same amount effort it took create this one.

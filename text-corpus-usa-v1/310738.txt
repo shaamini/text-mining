@@ -1,0 +1,1 @@
+as long as you treat dropbox like file sync service which it is very good at not part backup plan.

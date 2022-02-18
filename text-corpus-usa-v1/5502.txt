@@ -1,0 +1,1 @@
+unknown vaccination status means they don’t have health card.

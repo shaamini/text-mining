@@ -1,0 +1,1 @@
+#covid19vaccination tried register covid vaccine - but since i am below 60, it is not giving me slot even if i mentioned i have comorbidity. it doesn’t have reset option. once phone number is given, repeated attempts generates new otps, but not slot.

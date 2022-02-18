@@ -1,0 +1,1 @@
+looking at total case counts over time between countries with different vaccination rates, or within given country at different time points is lousy way try assess causal vaccine effect because there are many key factors affecting infection varying across countries/time

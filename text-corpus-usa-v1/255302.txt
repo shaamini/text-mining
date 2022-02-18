@@ -1,0 +1,1 @@
+data helen keller hospital “as tuesday, august 17, 2021, there are 47 covid-19 positive inpatients at helen keller hospital. 45 our current covid-19 positive inpatients are unvaccinated. all 26 our icu status covid-19 positive inpatients are unvaccinated.”

@@ -1,0 +1,1 @@
+vaccine: covishield 1st dose pincode: 400034 age group: 18+ center name: apollo spectra hospital tardeo date: 19 jul 2021 available slots: 100 cost: ₹780 paid #vaccination #mumbai

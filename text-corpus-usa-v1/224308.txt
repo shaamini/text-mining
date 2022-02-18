@@ -1,0 +1,1 @@
+simple logic: compare vaccinated vs unvaccinated deaths. vaccines do not prevent cases, they prevent death.

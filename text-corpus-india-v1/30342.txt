@@ -1,0 +1,1 @@
+vaccine: covishield 1st dose pincode: 400089 age group: 18+ center name: srv hospital - chembur date: 20 jul 2021 available slots: 200 cost: ₹780 paid #vaccination #mumbai

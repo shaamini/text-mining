@@ -1,0 +1,1 @@
+we need tweak app show status as fully vaccinated at checking page. 14 days or 21days frm second dose . it also help shop owner easy check do not need manually count number days all.

@@ -1,0 +1,1 @@
+data out humber shows near even split between vaccinated unvaccinated inpatients. 27 inpatients, half have incidental covid positive status while other half are admitted because symptomatic covid. symptomatic cases are highest among unvaccinated.

@@ -1,0 +1,1 @@
+open smartnews read "pfizer antiviral pill reduces covid hospitalization, death among high-risk people by 89%, study shows" here: read it web, tap here:

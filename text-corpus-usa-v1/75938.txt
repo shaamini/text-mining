@@ -1,0 +1,1 @@
+“ if efficacy first dose did not wane until administration second dose, then dsd strategy will be more effective than recommended schedules both pfizer-biontech moderna vaccines, achieving maximum benefits with delay 12 15 weeks.”

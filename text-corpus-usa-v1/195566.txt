@@ -1,0 +1,1 @@
+physical* constraints per fda are mostly about likelihood patient progressing serious case: 65+, cvd, ckd, high bmi, diabetes, lung disease, pregnancy, immunocompromised.

@@ -1,0 +1,1 @@
+pfizer: 1: very sore arm 2: fever, headache, full body aches, drowsiness. these symptoms only lasted less than 24 hours.

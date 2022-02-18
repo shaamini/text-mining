@@ -1,0 +1,1 @@
+if staff, regardless vaccination status or not, tests positive covid we are required quarantine.

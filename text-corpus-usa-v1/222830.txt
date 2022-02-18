@@ -1,0 +1,1 @@
+number if vaccinated people is far higher than number unvaccinated people. so percentage total deaths starts out with bias towards vaccinated. if you do not take this into account then percentage total deaths are going look off.

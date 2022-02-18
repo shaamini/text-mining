@@ -1,0 +1,1 @@
+depends whether vaccination status is embedded qr code itself, or if code is just link that connects back end. i read about it when it was released but cannot remember. will see it i can find it again.

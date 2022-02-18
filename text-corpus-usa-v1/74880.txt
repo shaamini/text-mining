@@ -1,0 +1,1 @@
+let us go covid-19 title update v2021.5.7 general fixes: • added ability download remastered pfizer-biontech dlc pack fix vulnerability that allowed users save data be deleted unexpectedly when loading into any map.

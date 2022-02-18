@@ -1,0 +1,1 @@
+scenario 2: jim chooses get vaccinated. february jim has heart attack. jim’s doctor sees his record that he had covid booster recently, filed vaers report. vaers report is submitted properly, but is unrelated vaccine. understand

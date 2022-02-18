@@ -1,0 +1,1 @@
+active cases hospital, by vaccination status: not: 45 47% partially: 3 3% fully: 47 49% hospitalizations/100k: not: 17/100k partially: 6/100k fully: 5/100k unvaccinated manitobans are 3.4x more likely be hospitalized with covid-19 than fully-vaccinated manitobans.

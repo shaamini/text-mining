@@ -1,0 +1,1 @@
+i produced separate plots each age group 1st, 2nd &amp; 3rd doses, with each plot including death rates unvaccinated, &lt;21d, &amp; &gt;21d respective doses. i include error bands &amp; make line width proportional number individuals vaccination group.

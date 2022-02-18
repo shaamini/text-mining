@@ -1,0 +1,1 @@
+our algorithm has no tests: 10 day return work if 24 hrs without fever, no meds. this holds unvaccinated or 2 shot vaccinated. if boosted then 7 days instead, with same 24 hrs afebrile bit.

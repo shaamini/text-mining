@@ -1,0 +1,1 @@
+try typing "an expected exception" without falling over your feet ;- this was friendly rant about not catching "all" exceptions not using exceptions flow control; very sentence "expected exception" is contradictio terminis, really #softwareengineering

@@ -1,0 +1,1 @@
+i think our app is ready deploy. seems that front-end using handlebars is finally hooked up backend api i wrote. *crosses fingers**

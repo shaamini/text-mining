@@ -1,0 +1,1 @@
+book your vaccination given link, current availability slot #mumbai age group: 45 + center name: nanavati hospital date:16-05-2021 pin code:400056 total available:74 dose1 available:0 dose2 available:74 fee type: paid vaccine: covishield

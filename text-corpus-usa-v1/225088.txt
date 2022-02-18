@@ -1,0 +1,1 @@
+when 95% age group is vaccinated, if total population is overestimated by 5%-10%, this will because estimated number unvaccinated be biased by 100% 200% i.e. 2x-3x . these are denominators unvax infection rates, so this decreases unvax infection rate by 2-3x

@@ -1,0 +1,1 @@
+set clear targets % vaccinated, case rates, test positivity rates hospitalizations. when those are met, relax rules while making it clear that if metrics increase above established targets, rules will snap back place.

@@ -1,0 +1,1 @@
+that is vaccination rate. it uses data cdc report that reports data jurisdictions containing 62% population. it is also age-adjusted.

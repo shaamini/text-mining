@@ -1,0 +1,1 @@
+day 5 80 got vaccinated 20 remained unvaccinated 4 infections vaccinated cats with ear present 2 infections unvaccinated cats with all ears lost total infections, 66% vaccinated cats 33% unvaccinated cats note: total infection is lower. only 4 ears lost 7/n

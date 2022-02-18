@@ -1,0 +1,1 @@
+expected result. if vaccine has efficacy then as % vaccinated increases so should % overall deaths occurring among unvaccinated. eventual goal is near 100%.

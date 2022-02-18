@@ -1,0 +1,1 @@
+put this context: india population: 13500l overall infected date : 112l infection rate across total population: 0.8% infection rate among vaccinated population: 0.04% gain:0.8/.04 = 20 while infection can happen post vaccine too, you are 20x safer with vaccine.

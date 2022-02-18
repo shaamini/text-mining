@@ -1,0 +1,1 @@
+i have concerns with 100% effective conclusion. 1. what was margin error degree freedom 2. sampling error/bias 3. at what significance level was this tested 100%, 99%, 95%90% did you allow room error 4. did you include researcher's interpretation error

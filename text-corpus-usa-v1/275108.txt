@@ -1,0 +1,1 @@
+fact, trend line suggests marginally positive association such that countries with higher percentage population fully vaccinated have higher covid-19 cases per 1 million people.

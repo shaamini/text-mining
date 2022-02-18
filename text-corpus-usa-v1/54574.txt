@@ -1,0 +1,1 @@
+. if vaccine does not prevent person contracting disease then it is not vaccine

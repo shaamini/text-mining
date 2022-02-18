@@ -1,0 +1,1 @@
+vaccine: covishield 1st dose pincode: 400066 age group: 18+ center name: vaishya samaj hall date: 19 jul 2021 available slots: 20 cost: ₹ free #vaccination #mumbai #covid19

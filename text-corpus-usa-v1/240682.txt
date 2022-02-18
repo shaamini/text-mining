@@ -1,0 +1,1 @@
+so let’s say vaccines overall stop 50% delta transmission. some timeframe 729 unvaccinated people are infected 1 unvaccinated person infects 3 unvaccinated people average. 3^6 = 729.

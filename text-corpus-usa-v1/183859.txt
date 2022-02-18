@@ -1,0 +1,1 @@
+there’s region parameter space where that belief makes sense. say, if vaccines are 60% effective r0 = 2, then you get huge network benefit if everyone is vaccinated. but, that’s not where we are with these vaccines with delta.

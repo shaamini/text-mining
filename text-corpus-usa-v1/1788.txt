@@ -1,0 +1,1 @@
+* caveat that hospitalization data include all patients hospital with covid, but not necessarily because covid is also potential factor, given high transmissibility omicron high vaccination rate county.

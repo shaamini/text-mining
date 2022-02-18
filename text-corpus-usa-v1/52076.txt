@@ -1,0 +1,1 @@
+pfizer: “preliminary laboratory studies demonstrate that three doses pfizer-biontech covid-19 vaccine neutralize omicron variant b.1.1.529 lineage while two doses show significantly reduced neutralization titers”

@@ -1,0 +1,1 @@
+i guess i’m trying figure out maximum number unvaccinated players team can have if coaches are all vaccinated.
