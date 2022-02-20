@@ -1,0 +1,1 @@
+suggestion… look at residuals model error versus county population. i suspect you will find that model error increases with county population, i.e., smaller counties tend be more homogeneous voting / vaccination relationship.

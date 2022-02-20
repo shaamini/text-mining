@@ -1,0 +1,1 @@
+previously posted bug where bookshare username/password are lost randomly one iphone. upgrade another iphone bug now appears it too. current version has this issue.

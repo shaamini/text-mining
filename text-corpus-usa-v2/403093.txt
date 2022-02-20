@@ -1,0 +1,1 @@
+requires reporters be vaccinated, but not players.

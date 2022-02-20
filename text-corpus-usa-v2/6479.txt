@@ -1,0 +1,1 @@
+this is why if you want assess effect vaccination, you need individual data split out by vaccination status, further if observational data you need carefully account confounders order get legitimate causal estimate effect vaccines.

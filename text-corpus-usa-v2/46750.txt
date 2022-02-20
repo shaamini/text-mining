@@ -1,0 +1,1 @@
+it differentiate between pfizer at $300/share vs. $5/share.

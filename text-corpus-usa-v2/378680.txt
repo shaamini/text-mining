@@ -1,0 +1,1 @@
+slightly unnerving thing about our game: npcs will sometimes get lined up at lighttium core stand like this just staring out into dark void. we didn't put that into their behaviour, they just... do it. i sometimes stay awake thinking about this.

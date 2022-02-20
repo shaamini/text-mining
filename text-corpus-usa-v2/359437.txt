@@ -1,0 +1,1 @@
+i'm your side, but this is spurious data comparison. you need compare shares population. e.g. if 90% population is vaccinated, then 90% infections should be among vaccinated.

@@ -1,0 +1,1 @@
+try to find the right graphs first, your first graph is number of doses, not vaccination rate. Flanders is equal to dk by the way

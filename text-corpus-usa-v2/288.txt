@@ -1,0 +1,1 @@
+the vaxicode application used in quebec to show proof of vaccination is suddenly no longer compatible for versions below android 8.1 super practical say so.

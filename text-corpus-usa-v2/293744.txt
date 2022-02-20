@@ -1,0 +1,1 @@
+is this cumulative probability inclusive infection itself, or just probability dying once infected if latter, it has be multiplied by probability infection both vaccinated unvaccinated, then true ratio/probability death is calculated.

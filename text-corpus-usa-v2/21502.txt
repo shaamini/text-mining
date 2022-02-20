@@ -1,0 +1,1 @@
+ca we actually have these qr-code vaccine images that are not forgeable because they've been signed with ca's public key. obviously, anyone can scan vaccine card photoshop name. practicality, this may be security overkill, but that's why these are useful tool.

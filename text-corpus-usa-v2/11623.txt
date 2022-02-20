@@ -1,0 +1,1 @@
+*vaers is vaccine adverse event reporting system. any medical condition including death appearing within 2 weeks if vaccination is recorded, even if they are coincidence. eg heart attacks happen all time, some would naturally happen near vaccination.

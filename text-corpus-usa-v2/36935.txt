@@ -1,0 +1,1 @@
+problem: can't calculate qalys without cost vs. benefit i.e. effect size . we don't know effect size pretty much anything except maybe vaccines. so qaly margin error would be so large as render it useless.

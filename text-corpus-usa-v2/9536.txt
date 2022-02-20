@@ -1,0 +1,1 @@
+fix #1: end pre-departure testing. fix #2: produce verifiable vaccination certificate that can be accessed online i.e. case loss or theft . sweden, norway, denmark, uk have these. federal state governments could ban domestic use.

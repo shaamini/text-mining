@@ -1,0 +1,1 @@
+latest ipad app update completely breaks “enter” key when using external keyboard. all it does is add new line message. how do i send message with keyboard now

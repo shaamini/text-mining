@@ -1,0 +1,1 @@
+data is scattered you can't really normalize vaccination rate because you don't have good public data what vaccination rate is given state at given time, so you're reduced very rough estimates

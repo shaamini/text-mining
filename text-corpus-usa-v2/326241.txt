@@ -1,0 +1,1 @@
+i want national alert go out when us-east-1 goes down.

@@ -1,0 +1,1 @@
+it seems like someone should be able run pretty simple regression covid outcomes at u.s. county level with variables including average age, average weight, percent vaccinated boosted , severity lockdowns, severity mask mandates.

@@ -1,0 +1,1 @@
+we should be showing two charts. deaths vaccinated people deaths unvaccinated people. let people see difference.

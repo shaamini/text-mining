@@ -1,0 +1,1 @@
+open smartnews read "fda authorizes moderna vaccine emergency use u.s." here: read it web, tap here:

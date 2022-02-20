@@ -1,0 +1,1 @@
+case rates: - vax without previous infection: 6.2x lower, 4.5x lower - unvax with previous infection: 29x lower, 14.7 lower - vax with previous infection: 32.5x lower, 19.8x lower these are multipliers, higher numbers are better. vaccinated with prior covid infection wins.

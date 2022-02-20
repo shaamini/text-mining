@@ -1,0 +1,1 @@
+this interactive map shows how vaccinated state illinois is by zip code, updated this week

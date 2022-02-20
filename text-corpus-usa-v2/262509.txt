@@ -1,0 +1,1 @@
+icu 0.0014699824514509% vaccinated 0.0236741714789165% unvaccinated which is bigger number

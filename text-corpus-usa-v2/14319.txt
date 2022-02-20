@@ -1,0 +1,1 @@
+it should be math-based with transparent math. e.g. "if positivity is at n% or lower, areas with y% or higher vaccination rates can drop their masking requirements"

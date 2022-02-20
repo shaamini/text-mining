@@ -1,0 +1,1 @@
+through-line all these seems be “the poor users don’t really understand what’s going on, so we’re doing what’s best them rather than explaining it letting them decide” that is generally your dark pattern warning, imo.

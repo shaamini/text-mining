@@ -1,0 +1,1 @@
+point this graphic is compare percentages not counts. this is why we compare cases per 100,000. we need compare cases out number vaccinated cases out number unvaccinated. denominators make difference.

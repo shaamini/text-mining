@@ -1,0 +1,1 @@
+can you do ev-like calculation i.e. ~40x fewer hospitalizations vaccinated pool despite being ~2x unvaccinated pool pop. * exp. risk =hospitalizations vaccinated calc x 70%*534 *x=13 x = 13/ .7*534 ≈ 0.04 unvaccinated calc y 30%*354 *y=521 y= 521/ .3*534 ≈ 3.25

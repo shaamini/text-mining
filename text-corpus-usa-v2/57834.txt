@@ -1,0 +1,1 @@
+Well, it does combine pfizer+pfizer+astra zenecasyringe, but pfizer + pfizer + sputnik just doesn't check.

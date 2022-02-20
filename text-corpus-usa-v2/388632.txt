@@ -1,0 +1,1 @@
+state ny keeps record all vaccinations given, shouldn’t be hard cross reference with all officers who claim be vaccinated

@@ -1,0 +1,1 @@
+i would really like stats start being reported this way. ex: total daily case count 132, 120 unvaccinated cases, 12 vaccinated. 7 day rolling case count average amongst unvaccinated population vs average amongst vaccinated population. as is, ppl just see low case

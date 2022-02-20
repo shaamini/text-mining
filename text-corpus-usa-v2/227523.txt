@@ -1,0 +1,1 @@
+there’s region parameter space where you get s large communal benefit. say, if vaccines are 60% effective r0 = 2, then you get huge network benefit if everyone is vaccinated. but, that’s not where we are with these vaccines 95% with delta r0~6 .

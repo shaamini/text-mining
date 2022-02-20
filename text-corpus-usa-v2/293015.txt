@@ -1,0 +1,1 @@
+maybe we can just split country into vaccinated unvaccinated.

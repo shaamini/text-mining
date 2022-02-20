@@ -1,0 +1,1 @@
+not sure how respective provinces are calculating population. whether they are removing deaths vaccinated totals.

@@ -1,0 +1,1 @@
+Here are some vaccination locations currently available: syringecvs pzifer/moderna/johnson +18, accept walk-ins syringewalgreens pzifer +12, accept walk-ins syringepublix johnson/moderna +18, accept walk-ins

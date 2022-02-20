@@ -1,0 +1,1 @@
+yes, vaccine reduces r0 value virus below 1. this means that at high vaccination rates, virus would die out. only reason virus is still thing is bc unvaccinated.

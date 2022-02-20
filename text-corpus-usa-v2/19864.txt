@@ -1,0 +1,1 @@
+shc scanning apps like this should work alberta vaccine qr codes unless/until gov't takes down public key they host alberta dot ca. fact, reading faq developers, it might still verify ab codes even if they remove key.

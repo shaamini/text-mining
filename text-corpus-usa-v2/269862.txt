@@ -1,0 +1,1 @@
+more math: how many viruses can replicate spread vaccinated person another vaccinated person when vaccine doesn’t stop infection, transmission or replication answer- same # as unvaccinated person.

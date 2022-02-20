@@ -1,0 +1,1 @@
+microbe genotype: round_pushpinwildtype: 7% 14% poor outcome cohort round_pushpinalpha: 89% 86% poor outcome cohort round_pushpinbeta: 4% 0 poor outcome cohort #immunocompromiseTongue_sticking_out_cheeky_playful_or_blowing_a_raspberry 40% 18% cancer, 19% corticosteroids, 7% anti-cd20, 11% solid organ transplant 2/3

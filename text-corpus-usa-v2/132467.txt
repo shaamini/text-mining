@@ -1,0 +1,1 @@
+expected vaccine shipments: - dec. 15: pfizer: 9,750 hospitals, 88,725 walgreens cvs nursing homes - dec. 22: 201,000 moderna vaccines hospitals health departments - later shipments expected days later

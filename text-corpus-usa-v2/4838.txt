@@ -1,0 +1,1 @@
+what we really need is modeling estimate propensity infection given previous infection, vaccination by dose, neither, or both, while adjusting key confounders including age job. otherwise it is really hard know what it tells you.

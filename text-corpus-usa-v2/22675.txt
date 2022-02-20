@@ -1,0 +1,1 @@
+can see it now. restaurants "would you like make reservation " patrons "do you check vaccine status " yes=yes no=no

@@ -1,0 +1,1 @@
+how hide data files climate “skeptics”: $ tar czf secret_archive.tar.gz secret_data1.dat secret_data2.dat … secret_datan.dat they’ll *never* be able find your data. noaa scientists learned that trick nearly 30 years ago.

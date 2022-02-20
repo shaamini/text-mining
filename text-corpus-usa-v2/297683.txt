@@ -1,0 +1,1 @@
+data nyc department health . vaccinated persons have ~3x lower risk sars-cov-2 infection than unvaccinated persons. vaccines work remember, vaccines are better at preventing disease than infection.

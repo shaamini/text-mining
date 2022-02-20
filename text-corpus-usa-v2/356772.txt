@@ -1,0 +1,1 @@
+take v be percentage vaccinated, e be vaccine’s effectiveness at preventing death; with little algebra you can see that percentage deaths among vaccinated is: v-ve / 1-ve plug whatever numbers you like into that. v=85% e=95% you get 22%.

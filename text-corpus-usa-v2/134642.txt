@@ -1,0 +1,1 @@
+if the page is well done and modern with service workers and so on, disconnect the modem, connect it again and the transaction continues.

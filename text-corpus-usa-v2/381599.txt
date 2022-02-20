@@ -1,0 +1,1 @@
+this is issue with "swiss cheese" model. it assumes that each piece cheese is same size, that they all extract equal cost. but adults getting vaccinated/boosted is far more effective less costly than, say, masking two-year-olds.

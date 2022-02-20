@@ -1,0 +1,1 @@
+this mostly works w/ post-delta data but gist is “the number times people are exposed sars-cov-2, whether through vaccination, infection or both, is key factor quality their antibody response.”
