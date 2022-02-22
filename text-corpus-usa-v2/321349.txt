@@ -1,0 +1,1 @@
+denmark: icu yellow_circleunvaccinated blue_circlevaccinated green_circleboostered

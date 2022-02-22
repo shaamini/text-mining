@@ -1,0 +1,1 @@
+we are talking about #bitcoin. not only does it not have a lightning network, that's forgivable, but it doesn't even have segwit so transfers are at least twice as expensive as in a modern wallet. Specifically, it is one of the worst bitcoin wallets on the market.

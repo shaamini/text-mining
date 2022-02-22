@@ -1,0 +1,1 @@
+when i open dji go 3 i get splash screen then app crashes. happened ios 15.2, stopped with 15.2.1. now with 15.3 it’s happening again. please advise, can’t fly drone any longer.

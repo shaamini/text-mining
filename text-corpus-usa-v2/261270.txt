@@ -1,0 +1,1 @@
+2/2 hospitalizations: 2,059 -195 { peak: 4,183 jan 18, 2022 } 48.28% unvaccinated, partially vaccinated, unknown status patients icu: 449 -25 { peak: 900 may 1, 2021 } 51 north bay-parry sound 150 simcoe-muskoka

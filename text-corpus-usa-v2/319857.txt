@@ -1,0 +1,1 @@
+depends ratio vaccinated unvaccinated people

@@ -1,0 +1,1 @@
+#maskup face_with_medical_mask vaccinated unvaccinated

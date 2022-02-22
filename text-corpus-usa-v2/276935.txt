@@ -1,0 +1,1 @@
+active cases, by vaccination status: not: 829 28% partially: 202 7% fully: 1,902 65% active cases/100k: not: 316/100k partially: 232/100k fully: 184/100k unvaccinated manitobans are 1.7x more likely have covid-19 than fully-vaccinated manitobans.

@@ -1,0 +1,1 @@
+yeah, these days people expect spring data write their queries them. here i am writing ctes joining across 12 different relationships make performant app with legacy db.

@@ -1,0 +1,1 @@
+hard get total hospitalized, but total cases are 34 million. if 1% are hospitalized, that is 350k. probability is 350k/350 million = 1/1000 unvaccinated. if vaccine is 95% effective, p = .05 * .001= .00005. 5 /100k.

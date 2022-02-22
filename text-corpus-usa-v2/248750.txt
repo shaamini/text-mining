@@ -1,0 +1,1 @@
+is your vaccine scheduler working properly i click cities that say available but it never has any appointment times when i’m step 2 or sometimes it just refreshes page when i click city instead step 2.

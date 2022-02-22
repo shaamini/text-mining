@@ -1,0 +1,1 @@
+those are patients there currently not rate they are going how many are icu. vaccinated unvaccinated, include partial unvaccinated divide by how many each group multiply by 100k that gets you rate.

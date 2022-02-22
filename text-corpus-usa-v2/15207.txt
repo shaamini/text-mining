@@ -1,0 +1,1 @@
+covid19 hospitalizations versus vaccination rates us states through time. with one year data we see that, average, states with higher vaccination rates have less hospitalization regardless season. this is true both delta omicron waves. #vaccineswork

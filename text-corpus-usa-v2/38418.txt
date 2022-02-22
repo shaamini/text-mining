@@ -1,0 +1,1 @@
+i think main problem is that developers always get highest-spec machines. "they need it be productive" or "the cost would not be much compared their salaries". this encourages writing inefficient code that still runs acceptable fastest machines, but not

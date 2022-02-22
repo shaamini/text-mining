@@ -1,0 +1,1 @@
+protein engineering is hard. presents new method that combines modelling sequence co-evolution with automated protein library design into vectors identify metabolic enzyme variants that are thermally stable more active

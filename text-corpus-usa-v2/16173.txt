@@ -1,0 +1,1 @@
+rule is vaccination or agree regular testing.

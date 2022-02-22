@@ -1,0 +1,1 @@
+update: cdc has now specified which workers are considered at high risk thus eligible booster shots: * health care workers * teachers * day-care staff * grocery workers * emergency responders

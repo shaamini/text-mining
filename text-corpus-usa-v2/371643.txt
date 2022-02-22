@@ -1,0 +1,1 @@
+it works when fire is same room as alarm. that is why people often put them kitchen. if kitchen is not closed off room but open livingroom where say fireplace is located, then it will go off that fire too. but not closed wall bedroom.

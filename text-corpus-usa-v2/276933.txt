@@ -1,0 +1,1 @@
+active cases icu, by vaccination status: not: 15 71% partially: 2 10% fully: 4 19% icu cases/100k: not: 5.7/100k partially: 2.2/100k fully: 0.4/100k unvaccinated manitobans are 14x more likely end up icu with covid-19 than fully-vaccinated manitobans.

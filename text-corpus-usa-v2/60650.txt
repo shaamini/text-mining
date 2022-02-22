@@ -1,0 +1,1 @@
+it means it’s ticker symbol stock or other financial code. instance $pfe pfizer, $abt abbot, $lhdx lucira

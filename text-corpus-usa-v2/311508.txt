@@ -1,0 +1,1 @@
+i think your data delta variant cases is probably going be skewed since not requesting reporting hospitalized covid cases those vaccinated, only unvaccinated.

@@ -1,0 +1,1 @@
+using your numbers comparing them percentage vaccinated 90%/ partially vaccinated 3%/ not vaccinated 7% using population 35 million you get: 40 icu per million vaccinated, 95 icu per million partially vaccinated 197 icu per million not vaccinated

@@ -1,0 +1,1 @@
+when we first made beta voc pseudovirus we ran vaccinated human mice samples side by side with beta wt saw very different results. human samples had 5-10 fold reduction ic50 compared wt, but immunized mice samples only displayed 2-4 fold reduction.

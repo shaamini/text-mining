@@ -1,0 +1,1 @@
+edit: that is deaths predicted, not per 100k. per cdc: 7 vaccinated deaths 7870424 people 207 unvax 6669000 san mateo county: ~43.6k vaccinated 12-17 8.9k unvax 43.6k * 7 / 7870424 = 0.038 8.9k * 207 / 6669000 = 0.278

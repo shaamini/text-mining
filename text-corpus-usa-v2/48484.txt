@@ -1,0 +1,1 @@
+interesting thing is that pfizer already did this once: they took smaller group, looked at 95% ci, said "great it passes 3mcg dose works." we also know that when they took larger group, 95% ci lower bound was too low. 4/

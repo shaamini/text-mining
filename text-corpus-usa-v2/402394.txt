@@ -1,0 +1,1 @@
+amount time vaccinated player has sit out is longer then vaccinated player... thats different

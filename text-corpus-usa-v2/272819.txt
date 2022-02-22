@@ -1,0 +1,1 @@
+so i found one issues. denominator they are using unvaccinated people isn't actually unvaccinated people. it's just "people we don't have vaccination record for." they don't even confirm those people live scotland anymore.

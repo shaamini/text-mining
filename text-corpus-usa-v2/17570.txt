@@ -1,0 +1,1 @@
+1/28/2022 release vaers data where vaccine targets covid-19 vaccination date '2020-10-01' '2022-02-28' found 19,806 cases where patient died found 38,004 cases where patient disabled found 15,115 cases where symptom is myocarditis or pericarditis

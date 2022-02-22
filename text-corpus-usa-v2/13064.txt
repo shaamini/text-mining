@@ -1,0 +1,1 @@
+there are other issues, too. instance vaccination rate data isn’t good shape: we have had trouble linking first second shots, so it overreports single doses underreported full vaccine courses.

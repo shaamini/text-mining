@@ -1,0 +1,1 @@
+i see where your logic went wrong. you're comparing subset with breakthrough infections against unvaccinated, forgetting that vaccinated people will have fewer cases thus study i linked is correct, fewer household members get infected.

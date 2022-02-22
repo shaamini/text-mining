@@ -1,0 +1,1 @@
+denmark: deaths yellow_circleunvaccinated blue_circlevaccinated green_circleboostered

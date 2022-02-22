@@ -1,0 +1,1 @@
+open smartnews read "millions covid-19 vaccine doses stuck warehouses until federal orders, pfizer says" here: read it web, tap here:

@@ -1,0 +1,1 @@
+fortunately, uk publicly posts daily vaccination data. i've downloaded, parsed painfully so , plotted these show vaccination rollout dynamics. my recent blog post has link data full r scripts download, parse, plot

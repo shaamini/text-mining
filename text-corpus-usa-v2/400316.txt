@@ -1,0 +1,1 @@
+#vaccinatedcheck_mark_button #boosted check_mark_button #masked check_mark_button #gogreen check_mark_button

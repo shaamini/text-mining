@@ -1,0 +1,1 @@
+let's say population consisted 1000 vaccinated people 10 unvaccinated. out 5 infected, let's say 4 were vaccinated. news reports this as "80% infected were vaccinated " while mathematically true, it's bad analysis says nothing about vaccine efficacy.

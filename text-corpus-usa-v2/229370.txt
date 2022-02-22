@@ -1,0 +1,1 @@
+case mandatory vaccinations is strongest when: 1. virus has low reproduction rate ~2 ; 2. vaccines are less individually effective ~60% . that’s when you get most nonlinear benefit herd immunity. we are not that operating range.

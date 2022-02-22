@@ -1,0 +1,1 @@
+cost of vaccines per dose: pfizer: $20 modern: $26 astrazeneca: $3.50 johnson &amp; Johnson: $10

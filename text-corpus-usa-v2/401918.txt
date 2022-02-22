@@ -1,0 +1,1 @@
+part 2, do patients have right know if provider is actually vaccinated themselves or simply if they have complied with organizational vaccine-related policies

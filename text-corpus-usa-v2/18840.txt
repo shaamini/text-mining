@@ -1,0 +1,1 @@
+demonstrate vaccination dynamics, i downloaded daily england vaccination data &amp; plotted each age group proportion each 7 vaccination groups over time these vaccination dynamics affect makeup each vaccination group over time here is rollout 90yr+

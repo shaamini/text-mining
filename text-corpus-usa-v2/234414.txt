@@ -1,0 +1,1 @@
+skewed numbers by only looking at hospitalization rates unvaccinated reinfected. this cohort is often immunocompromised so course it’d show 5x rate.

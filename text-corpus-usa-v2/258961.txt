@@ -1,0 +1,1 @@
+data non-vaccinated deaths are extremely skewed. dive into data you will see that if you have 1 shot but not second die its counted as unvaccinated.

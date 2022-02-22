@@ -1,0 +1,1 @@
+example, if area is 90% vaccinated you see something like "60% hospitalizations are vaccinated people", if that's only 60 people out 100 that means it's right margin efficacy vaccines is result having such high vaccination rate.

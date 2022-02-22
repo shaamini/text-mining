@@ -1,0 +1,1 @@
+pfizer's spike differs original sar-cov-2 spike, by design.

@@ -1,0 +1,1 @@
+here is nirmatrelvir, active main protease inhibitor pfizer's paxlovid drug against covid-19. #raymolecule rendered #rstats with #rayrender's new ambient occlusion renderer `render_ao `. ao rendering is 3d viz easy mode: no need worry about complex lightingslightly_smiling_face

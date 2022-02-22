@@ -1,0 +1,1 @@
+ok, however, i would expect that if appointment was booked under any m, if that day only pfizer became available, that clinic would cancel / notify people it had booked by email not come

@@ -1,0 +1,1 @@
+ios screen keyboard with predictive activated, if you type “vaccine”, syringe emoji will appear selection. before vaccines, you could only type “syringe” present this emoji select.

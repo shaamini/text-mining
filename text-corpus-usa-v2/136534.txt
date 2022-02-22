@@ -1,0 +1,1 @@
+2. professional code distribution with js: in this workshop you create a react library, but more importantly you are learning a modern code distribution architecture, you learn about module federation, automations and more.

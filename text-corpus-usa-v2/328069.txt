@@ -1,0 +1,1 @@
+trying figure out why awesome shoutout widget is playing audio twice...might just forgo it playing music all together

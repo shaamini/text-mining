@@ -1,0 +1,1 @@
+rule thumb: if she's hitting me, it's scam.

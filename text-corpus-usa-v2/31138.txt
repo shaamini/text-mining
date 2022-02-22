@@ -1,0 +1,1 @@
+syringed.c. is launching new digital vaccine records portal which will allow residents pull up their vaccine cards their phones.

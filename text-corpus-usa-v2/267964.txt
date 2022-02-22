@@ -1,0 +1,1 @@
+cdc doesn’t consider person vaccinated until two weeks after their second injection. this means that anyone who dies during weeks before or two weeks after second injection, are considered unvaccinated deaths. news more at

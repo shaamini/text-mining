@@ -1,0 +1,1 @@
+that is why having individual outcomes split by vaccination status is crucial, further we need adjust confounders if we want reliable estimate causal vaccine effect.

@@ -1,0 +1,1 @@
+cdc’s #covid19 data tracker now shows # ppl who received both vaccine doses by state raw or rate per 100k ppl . you can also now see total # moderna or pfizer vaccines distributed.

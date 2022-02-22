@@ -1,0 +1,1 @@
+3 stop codons, when present at end mrna coding sequence, signals termination protein synthesis. according recent paper, both pfizer moderna selected suboptimal stop codons

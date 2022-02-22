@@ -1,0 +1,1 @@
+yes, there should be only one class player, vaccinated

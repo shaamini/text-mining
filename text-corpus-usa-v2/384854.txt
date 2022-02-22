@@ -1,0 +1,1 @@
+green bars is number vaccinated per 1000 people. yellow line is severe vax injuries. if green bar is above yellow, they had less injuries than trend. if line is above green bar, more injuries.

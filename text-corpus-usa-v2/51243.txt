@@ -1,0 +1,1 @@
+for example, for vaccines it would be something like this: there is statistical evidence that the pfizer vaccine is efficient against serious covid-19 disease with a confidence of 99%.
