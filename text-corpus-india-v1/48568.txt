@@ -1,1 +1,1 @@
-yelp introduces “proof vaccination required” “staff fully vaccinated” profile attributes
+whether vaccine is front or arms ... increases both age confidence. Whether the vaccine is on the frontal... or in the arms... Increases both age and confidence.

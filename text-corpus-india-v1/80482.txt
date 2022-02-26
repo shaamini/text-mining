@@ -1,0 +1,1 @@
+name countries which have vaccinated highest number people: highest: usa second highest: india

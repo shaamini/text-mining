@@ -1,1 +1,1 @@
-% data showing efficacy is not correct. it assumes that all vaccinated are also exposed. ideally one should compare below 1. infection wo vaccine / no dose population 115 cr 2. infection with 1 dose / 1 dose 12 cr 3. infection with 2 dose / 2 dose 1 cr
+#people who are #triple-#vaccinated

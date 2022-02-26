@@ -1,0 +1,1 @@
+do you have data where base is infected people. so need 1- rate infection vaccinated vs not vaccinated 2- % hospitalised vaccinated not vaccinated with base being total infected that category

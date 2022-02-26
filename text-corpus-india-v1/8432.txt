@@ -1,1 +1,1 @@
-read dr tweets face_with_medical_mask scale #vaccination higher than #covid cases
+Integrated Kovid Command and Control Center has been created to keep real time monitoring of beds, oxygen, vaccination, covid management in hospitals.

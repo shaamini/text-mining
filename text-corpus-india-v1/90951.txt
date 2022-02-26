@@ -1,0 +1,1 @@
+After 2 doses of vaccination, in application #ehteraz a yellow frame will appear and the #vaccinated logo will appear. Wait 7 days. Location is tracked all the time. If someone other than green comes near, the app will warn.

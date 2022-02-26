@@ -1,0 +1,1 @@
+blink near check-in page mysejahtera, when the vaccination status is ‘fully vaccinated’ it means those who have received 2 doses of injections only or need after 14 days from the second dose

@@ -1,0 +1,1 @@
+vaccination program is failing , as registered groups are not going vaccination, which is causing delay people who want get vaccinated.

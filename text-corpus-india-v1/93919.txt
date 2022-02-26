@@ -1,0 +1,1 @@
+go count issued vaccines number frontline people vaccinated. let’s us know discrepancy.

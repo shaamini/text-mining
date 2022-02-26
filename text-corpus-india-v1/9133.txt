@@ -1,1 +1,1 @@
-#stopcoronavirus should increase vaccination campaign covid.why not maharashtra gov target small society,locality,college,ngo give them vaccination why local train is still running common man what use curfew when local trains are full pack
+one our colleague mr. yogesh, has helped us booking covid-19 vaccination slots by developing chrome extension using co-win public apis. this extension will check available slots every 15 seconds notify you whenever slots are available. please go through

@@ -1,0 +1,1 @@
+#cowinapp second dose is already taken still it is showing partially vaccinated

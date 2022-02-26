@@ -1,0 +1,1 @@
+agree. should have fixed any issues before warning for walk vaccination. Now that vaccination is complete, it still says "partially vaccinated" in mysejahtera.

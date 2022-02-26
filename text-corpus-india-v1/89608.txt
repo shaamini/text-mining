@@ -1,0 +1,1 @@
+#arogyasethu application does not allow schedule vaccination 2nd dose. "vaccinated" is status against names it does not allow select name check box. "schedule vaccination" is disabled.

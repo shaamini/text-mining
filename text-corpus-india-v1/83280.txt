@@ -1,0 +1,1 @@
+make policy that only person vaccinated would be allowed stay.

@@ -1,0 +1,1 @@
+cowin is not showing previously registered beneficiaries, even those who are fully vaccinated.

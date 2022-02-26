@@ -1,0 +1,1 @@
+can model it here. my inputs: r0 = 6, interventions day 0 bring r = 2 based start delta outbreak at start april with no lockdown , population = 58 million total pop minus ~vaccinated pop
