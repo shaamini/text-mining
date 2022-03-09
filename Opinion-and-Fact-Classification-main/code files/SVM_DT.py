@@ -35,7 +35,7 @@ nltk.download('stopwords')
 from nltk.corpus import stopwords
 stop_words = set(stopwords.words('english'))
 
-data_path = '/content/drive/My Drive/IR Project/facts_opinions.csv'
+data_path = './sample_USA_subjectivity.csv'
 
 data = pd.read_csv(data_path)
 data.head()
